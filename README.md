@@ -27,6 +27,7 @@ The dialogue box should be possible to be moved forward, each skip displaying th
 When displaying the final part, the player should be able to close the dialogue box.
 
 -----------Testing Features----------
+
 The project can be opened in an Unreal Engine 5.4 Editor. Movement of the character is done by the WASD keys, you can control the camera with the mouse, and you can jump with the space bar.
 
 Upon playing, the inventory menu will open up, you can exit this by pressing escape or by left-clicking the exit button on the top left. There are various pickups on the ground that you can collect, and as you do, they will enter your inventory. If your active inventory slot on the top right is empty, the item will be placed there. When your inventory is full, you can no longer pick up items. 3D items will scale and rotate appropriately to fit the slot and face the camera.
